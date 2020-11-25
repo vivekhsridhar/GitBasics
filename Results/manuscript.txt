@@ -1,0 +1,14 @@
+Abstract:
+A few key sentences about our findings. These results are very cool.
+
+Introduction:
+Some background. But there is this gap in knowledge. This is so important but no one looks at this for these reasons. We will now examine this.
+
+Methods:
+We used fancy methods coz they are cool.
+
+Results:
+Here are our cool results.
+
+Discussion:
+The animals obviously do this cool stuff considering their ecology and evolutionary history.
