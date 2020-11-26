@@ -10,7 +10,7 @@ def get_kinematics(x, y):
 	speed = np.sqrt(dx**2 + dy**2)
 	acceleration = np.sqrt(d2x**2 + d2y**2)
 
-	return speed, acceleration
+	return speed, acc
 
 def remove_outliers(data, m):
 	d = np.abs(data - np.nanmedian(data))
